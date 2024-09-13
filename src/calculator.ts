@@ -13,4 +13,8 @@ export class Calculator {
   public multiply(x: number, y: number) : number {
     return x * y;
   }
+
+  public print_hello() : void {
+    console.log('Hello');
+  }
 };
