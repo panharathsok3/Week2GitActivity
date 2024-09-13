@@ -3,6 +3,9 @@ export class Calculator {
     return x + y;
   }
 
+  public divide(x: number, y: number) : number {
+    return x / y;
+  }
   public subtract(x:number, y: number) : number {
     return x - y;
   }
