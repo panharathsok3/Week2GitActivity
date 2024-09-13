@@ -6,3 +6,4 @@ const result_add = calc.add(2, 3);
 console.log(`result_add = ${result_add}`);
 
 console.log(`result_divide = ${calc.divide(6, 2)}`);
+console.log(`result_multiple = ${calc.multiply(2, 3)}`);
