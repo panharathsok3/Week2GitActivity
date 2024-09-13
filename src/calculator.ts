@@ -5,5 +5,8 @@ export class Calculator {
 
   public subtract(x:number, y: number) : number {
     return x - y;
+    
+  public multiple(x: number, y: number) : number {
+    return x * y;
   }
 };
